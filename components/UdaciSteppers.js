@@ -1,4 +1,4 @@
-import React from '../../../../../../../Library/Caches/typescript/2.9/node_modules/@types/react'
+import React from 'react'
 import { View, TouchableOpacity, Text } from 'react-native'
 import { FontAwesome, Entypo } from '@expo/vector-icons'
 

@@ -1,4 +1,4 @@
-import React from '../../../../../../../Library/Caches/typescript/2.9/node_modules/@types/react'
+import React from 'react'
 import { View } from 'react-native'
 import { FontAwesome, MaterialIcons, MaterialCommunityIcons } from '@expo/vector-icons'
 import { black } from './colors'

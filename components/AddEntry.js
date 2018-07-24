@@ -1,5 +1,5 @@
 
-import React, { Component } from '../../../../../../../Library/Caches/typescript/2.9/node_modules/@types/react'
+import React, { Component } from 'react'
 import { View, TouchableOpacity, Text } from 'react-native'
 import { getMetricMetaInfo, timeToString } from '../utils/helpers'
 import UdaciSlider from './UdaciSlider'
